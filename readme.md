@@ -16,5 +16,6 @@ Usage:
 Then you can open `~/my_new_project` in IntelliJ simply by using "Open Project"
 
 Roadmap:
- * Add support for renaming projects
- * Remove items from "recent projects" list
+
+- Add support for renaming projects
+- Remove items from "recent projects" list
