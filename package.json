@@ -1,6 +1,6 @@
 {
   "name": "jetbrains",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Command Line tools for JetBrains projects (IntelliJ/WebStorm/etc)",
   "main": "main.js",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "author": "sstur@me.com",
   "bin": {
-    "jetbrains": "./main.js"
+    "jetbrains": "./cli.js"
   },
   "license": "BSD-2-Clause",
   "bugs": {
