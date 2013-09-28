@@ -11,6 +11,9 @@
     "url": "git@github.com:sstur/jetbrains.git"
   },
   "author": "sstur@me.com",
+  "bin": {
+    "jetbrains": "./main.js"
+  },
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/sstur/jetbrains/issues"

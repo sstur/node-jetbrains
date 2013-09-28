@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa568d43-552c-4d3a-83bc-9fde194bb869" name="Default" comment="" />
-    <ignored path="project.iws" />
+    <ignored path="project_file.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
