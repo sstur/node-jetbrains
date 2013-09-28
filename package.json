@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:sstur/jetbrains.git"
+    "url": "git@github.com:sstur/node-jetbrains.git"
   },
   "author": "sstur@me.com",
   "bin": {
@@ -16,6 +16,6 @@
   },
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/sstur/jetbrains/issues"
+    "url": "https://github.com/sstur/node-jetbrains/issues"
   }
 }
